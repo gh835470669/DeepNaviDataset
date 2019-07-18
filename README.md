@@ -1,5 +1,5 @@
 # DeepNaviDataset
 Indoor Navigation Dataset
-Use image and geomagnetism to regress localization and ortientaion
+Use image and geomagnetism to regress location and orientaion
 
-We are preparing the dataset......
+We are preparing the dataset
