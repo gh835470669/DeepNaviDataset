@@ -1,6 +1,2 @@
 # DeepNaviDataset
-Indoor Navigation Dataset
-
-Use image and geomagnetism to regress location and orientaion
-
-We are preparing the dataset
+Indoor navigation with images and geomagnetic sequences. We are removing sensitive information from our dataset, e.g., faces of pedestrians. Please stay tuned to this page for more update.
